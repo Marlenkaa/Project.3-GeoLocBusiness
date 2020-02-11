@@ -25,4 +25,4 @@ En el siguiente mapa quedan representados todos los parámetros junto con la ubi
 - *En amarillo: escuelas*
 - *En rojo: pubs*
 
-![](map_screenshot.png)
+![](https://github.com/Shurlena/mongo-project/blob/master/OUTPUT/map_screenshot.png)
