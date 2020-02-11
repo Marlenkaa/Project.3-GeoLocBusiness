@@ -1,4 +1,4 @@
-# geoLocBusiness
+# BusinessGeoLoc
 
 Este proyecto tiene como objetivo encontrar la ubicación más óptima para la apertura de nuestra nueva oficina, siendo una empresa dedicada a la industria del videojuego.
 
@@ -18,7 +18,7 @@ Para la obtención de lugar idóneo se ha seguido el siguiente esquema:
 4. Obtenemos las coordenadas de los pubs en San Francisco mediante la APi Google Places.
 5. Obtenemos las coordenadas de las escuales en San Francisco mediante la Api Google Places.
 
-Finalmente, generando queries geoespaciales en MongoDB dentro de cada una de las colecciones con los datasets, hemos obtenido que la empresa *OpenTable* con las coordenadas *latitud: 37.785647, longitud: -122.405265* posee la mejor posición respecto a las preferencias que buscábamos.
+Finalmente, generando queries geoespaciales en MongoDB dentro de cada una de las colecciones con los datasets, hemos obtenido que la empresa *OpenTable* con las coordenadas *latitud: 37.785647, longitud: -122.405265* posee la mejor posición respecto a las preferencias que buscábamos. Por tanto, posicionaríamos nuestras oficinas en el mismo edificio.
 
 En el siguiente mapa quedan representados todos los parámetros junto con la ubicación finalmente elegida:
 - *En verde: Starbucks*
