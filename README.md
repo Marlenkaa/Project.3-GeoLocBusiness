@@ -21,8 +21,8 @@ Para la obtención de lugar idóneo se ha seguido el siguiente esquema:
 Finalmente, generando queries geoespaciales en MongoDB dentro de cada una de las colecciones con los datasets, hemos obtenido que la empresa *OpenTable* con las coordenadas *latitud: 37.785647, longitud: -122.405265* posee la mejor posición respecto a las preferencias que buscábamos.
 
 En el siguiente mapa quedan representados todos los parámetros junto con la ubicación finalmente elegida:
-*- En verde: Starbucks*
-*- En amarillo: escuelas*
-*- En rojo: pubs*
+- *En verde: Starbucks*
+- *En amarillo: escuelas*
+- *En rojo: pubs*
 
-![alt text]('../OUTPUT/map_screenshot.png')
+![](map_screenshot.png)
