@@ -1,7 +1,7 @@
 # *GeoLocBusiness*
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Shurlena/Project.3-GeoLocBusiness/master/images/front.jpg">
+    <img src="https://raw.githubusercontent.com/Shurlena/Project.3-GeoLocBusiness/master/images/front.jpg" width="600">
 </p>
 
 The goal of this project is to find the best location to place new company offices. Given a company that belongs to the gaming industry, the location elected must to comply the following preferences:
@@ -46,7 +46,7 @@ For that, we execute geoqueries that return how many matches each company satisf
 This scoring method returns us 'PX Interactive' as winner company with the best location of San Francisco. Here we can see the hole map with every place located and marked:
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Shurlena/Project.3-GeoLocBusiness/master/images/complete_map.png" width="400">
+    <img src="https://raw.githubusercontent.com/Shurlena/Project.3-GeoLocBusiness/master/images/complete_map.png" width="600">
 </p>
 
 If we zoom it, we can check the 1,5km radio where the new offices could be open. For further info:
@@ -58,5 +58,5 @@ If we zoom it, we can check the 1,5km radio where the new offices could be open.
 - *Airport marked in blue (see complete map)*
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Shurlena/Project.3-GeoLocBusiness/master/images/best_location.png" width="400">
+    <img src="https://raw.githubusercontent.com/Shurlena/Project.3-GeoLocBusiness/master/images/best_location.png" width="600">
 </p>
