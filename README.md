@@ -56,6 +56,7 @@ If we zoom it, we can check the 1,5km radio where the new offices could be open.
 - *Pubs marked in red*
 - *Schools marked in yellow*
 - *Airport marked in blue (see complete map)*
+- *Tech companies represented in heat map*
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Shurlena/Project.3-GeoLocBusiness/master/images/best_location.png" width="600">
