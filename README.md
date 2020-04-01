@@ -1,7 +1,7 @@
 # *GeoLocBusiness*
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Shurlena/Project.3-GeoLocBusiness/master/images/front.jpg" width="600">
+    <img src="https://raw.githubusercontent.com/Shurlena/Project.3-GeoLocBusiness/master/images/front.jpg" width="400">
 </p>
 
 The goal of this project is to find the best location to place new company offices. Given a company that belongs to the gaming industry, the location elected must to comply the following preferences:
